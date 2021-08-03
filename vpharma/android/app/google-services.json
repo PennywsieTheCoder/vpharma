@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884479715557",
+    "project_id": "final-year-project-a129d",
+    "storage_bucket": "final-year-project-a129d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884479715557:android:5982d505840de49d0acc0c",
+        "android_client_info": {
+          "package_name": "com.isaacandjackie.vpharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884479715557-k3evmq27el956rvo7306u6ic93ais5m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACgKKWNeSnGLm4pPd1j0RJMquJnfRGHME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884479715557-k3evmq27el956rvo7306u6ic93ais5m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
